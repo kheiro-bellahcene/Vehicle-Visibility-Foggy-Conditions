@@ -32,12 +32,5 @@ It is based on Koschmieder’s law, which models fog attenuation, allowing us to
 
 ---
 
-## Usage
-
-To use this project locally, download the MATLAB scripts and sample images from this repository.  
-All processing is performed using MATLAB.
-
----
-
 *This project aims to improve safety for ADAS systems in degraded weather conditions.*
 
