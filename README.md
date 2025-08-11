@@ -1,9 +1,9 @@
 # Visibility Restoration in Foggy Images
 
-## Online Demo
+## Full Report
 
-You can view the interactive demo and results here:  
-[https://kheiro-bellahcene.github.io/Vehicle-Visibility-Foggy-Conditions/](https://kheiro-bellahcene.github.io/Vehicle-Visibility-Foggy-Conditions/)
+You can view the full report here:  
+👉 [https://kheiro-bellahcene.github.io/Vehicle-Visibility-Foggy-Conditions/](https://kheiro-bellahcene.github.io/Vehicle-Visibility-Foggy-Conditions/)
 
 ---
 
