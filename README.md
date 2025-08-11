@@ -1,5 +1,11 @@
 # Visibility Restoration in Foggy Images
 
+## Introduction
+
+This project improves the visibility of distant objects in foggy images.  
+It is based on Koschmieder’s law, which models fog attenuation, allowing us to restore images by reversing the fog effect.
+
+---
 ## Full Report
 
 You can view the full report here:  
@@ -17,12 +23,6 @@ Author: BELLAHCENE Kheir Eddine
 
 ---
 
-## Introduction
-
-This project improves the visibility of distant objects in foggy images.  
-It is based on Koschmieder’s law, which models fog attenuation, allowing us to restore images by reversing the fog effect.
-
----
 
 ## Features
 
