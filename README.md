@@ -1,4 +1,4 @@
-# 🌫️ Visibility Restoration in Foggy Images
+# 🌫️ Visibility Restoration in Foggy Images 
 
 ## 📌 Introduction
 This project focuses on **improving the visibility of distant objects in foggy images**.  
